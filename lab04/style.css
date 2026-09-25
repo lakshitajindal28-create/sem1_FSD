@@ -1,0 +1,28 @@
+body{
+    background-color: honeydew;
+}
+a{
+    color:grey;
+    text-decoration: none;
+}
+
+p{
+    color:darkred;
+}
+
+h2{
+    color:darkolivegreen;
+    text-decoration:wavy underline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+li{
+    color:darkslateblue;
+}
+
+h1{
+    color: maroon;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
